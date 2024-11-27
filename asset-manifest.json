@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/kandiahc-it/Login-Page/static/css/main.26948dbb.css",
+    "main.js": "/kandiahc-it/Login-Page/static/js/main.aea20ba3.js",
+    "static/js/453.287fbfbc.chunk.js": "/kandiahc-it/Login-Page/static/js/453.287fbfbc.chunk.js",
+    "static/media/backgroundimg.jpg": "/kandiahc-it/Login-Page/static/media/backgroundimg.2b71141395ab13a81f2d.jpg",
+    "static/media/logo.svg": "/kandiahc-it/Login-Page/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/kandiahc-it/Login-Page/index.html",
+    "main.26948dbb.css.map": "/kandiahc-it/Login-Page/static/css/main.26948dbb.css.map",
+    "main.aea20ba3.js.map": "/kandiahc-it/Login-Page/static/js/main.aea20ba3.js.map",
+    "453.287fbfbc.chunk.js.map": "/kandiahc-it/Login-Page/static/js/453.287fbfbc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.26948dbb.css",
+    "static/js/main.aea20ba3.js"
+  ]
+}
