@@ -8,7 +8,7 @@ import { useFormik } from 'formik';
 import { validationschema, validationschema2 } from './validationschema';
 import { toast, ToastContainer } from 'react-toastify';
 
-const CustomTextField = styled(TextField)({
+const CustomTextField = React.memo(styled(TextField)({
   
   '& .MuiInputBase-input': {
     color: '#ffffff', // Set text color to white
@@ -41,9 +41,9 @@ const CustomTextField = styled(TextField)({
     },
   },
   width:'334px',
-});
+}));
 
-const Button=styled.button`
+const Button=React.memo(styled.button`
    background: linear-gradient(90deg, #3C547C 0%, #6689C0 100%);
   height: 71px;
   width: 271px;
@@ -65,7 +65,7 @@ const Button=styled.button`
     background: linear-gradient(90deg, #6689C0 0%, #3C547C 100%);
   }
   
-`
+`);
 
 
 const Form = () => {
